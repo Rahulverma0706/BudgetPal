@@ -1,4 +1,4 @@
-Here’s a basic README template you can use for your BudgetPal project:
+Here’s the updated README with your deployment link included:
 
 ---
 
@@ -58,6 +58,12 @@ Here’s a basic README template you can use for your BudgetPal project:
 
    The app should now be running at `http://localhost:5173`.
 
+## Deployment
+
+You can access the live deployed version of the application at the following link:
+
+[BudgetPal - Live Demo](https://budget-pal-lime.vercel.app/)
+
 ## Contributing
 
 Feel free to fork the repository and submit pull requests. If you want to contribute new features or fix bugs, you are welcome to contribute by following these steps:
@@ -74,4 +80,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-You can paste this into your `README.md` file. It covers the basics and provides users with everything they need to get started. Feel free to add more specific details based on your project!
+You can now paste this into your `README.md` file. It includes the link to your live demo!
